@@ -289,7 +289,7 @@ https://github.com/aws-samples/aws-microservices-deploy-options/issues/63
 
 https://github.com/aws-samples/aws-microservices-deploy-options/issues/65
 
-=== Deployment Pipeline: Jenkins
+=== Deployment Pipeline: http://jenkins-x.io/[Jenkins X]
 
 https://github.com/aws-samples/aws-microservices-deploy-options/issues/67
 
@@ -325,7 +325,7 @@ kops update cluster --yes
 kops rolling-update cluster --yes
 ```
 +
-. Install Jenkins X CLI:
+. Install http://jenkins-x.io/[Jenkins X] CLI:
 +
 ```
 brew tap jenkins-x/jx
